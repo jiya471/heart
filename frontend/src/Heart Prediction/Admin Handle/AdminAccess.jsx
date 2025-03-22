@@ -49,7 +49,7 @@ function AdminAccess() {
 
           {isRootAdminAccess && (
             <div className="AdminAccessMainContent">
-              <h1 className="AdminShowCase">Welcome Kartik Sharma</h1>
+              <h1 className="AdminShowCase">Welcome Jiya</h1>
               <form className="DocDetails" onSubmit={handleSubmit(onSubmit)}>
                 <h2>Add Doctor Details</h2>
 

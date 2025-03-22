@@ -18,7 +18,7 @@ function AdminLogout() {
     <div className="AdminLogoutDiv">
       <div className="AdminLogoutProfile">
         <FontAwesomeIcon icon={faUserTie} />
-        <h1>Kartik Sharma</h1>
+        <h1>Jiya</h1>
       </div>
       <button onClick={handleLogout}>Logout</button>
     </div>

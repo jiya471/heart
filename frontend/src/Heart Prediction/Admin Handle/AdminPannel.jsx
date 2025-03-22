@@ -28,8 +28,8 @@ function AdminPannel() {
     const { adminId, adminPassword } = data;
 
     if (
-      adminId.trim().toLowerCase() === "Kartik_Sharma".toLowerCase() &&
-      adminPassword.trim().toLowerCase() === "Kartik_Sharma".toLowerCase()
+      adminId.trim().toLowerCase() === "Jiya".toLowerCase() &&
+      adminPassword.trim().toLowerCase() === "BlueSea25!".toLowerCase()
     ) {
       setAdminLogin(true);
       navigate("/AdminAccess");
